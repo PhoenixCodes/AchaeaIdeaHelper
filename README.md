@@ -13,4 +13,7 @@ This will show the next idea that you have not yet voted on. If you've gotten th
 #### IDEA SHOW NEXT ALL 
 This will show the next idea numerically from the last read one, even if already voted on. At the end, it will cycle back to the beginning of the list again. 
 
+#### IDEA SHOW LAST
+This will show the last idea you viewed, nothing fancy!
+
 *Last Updated January 15, 2021*

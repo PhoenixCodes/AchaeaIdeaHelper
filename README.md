@@ -17,3 +17,8 @@ This will show the next idea numerically from the last read one, even if already
 This will show the last idea you viewed, nothing fancy!
 
 *Last Updated January 15, 2021*
+
+
+# Installing
+
+You may download the script by right-clicking [here](https://github.com/PhoenixCodes/AchaeaIdeaHelper/raw/main/IdeaHelper.xml) and clicking 'save as'. Then simply import the package into mudlet via the package manager, importer, or module manager. No restart is necessary!

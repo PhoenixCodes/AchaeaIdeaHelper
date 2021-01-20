@@ -1,4 +1,4 @@
-# AchaeaIdeaHelper - A small helper for IDEAS
+# Achaea Idea Helper - A small helper for IDEAS
 
 This small script is intended to help you see which IDEAS you have yet to review, and help you go through them. It adds a bit of functionality, as detailed below
 - Adds idea lifespan to the existing `IDEA SHOW` output
